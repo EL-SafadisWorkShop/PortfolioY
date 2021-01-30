@@ -28,7 +28,7 @@ const About = () => {
                 I started off working in a retail store and worked my way up to become the Store Manager I continued my job for about 2 years and a few months. 
                 <br />But that wasn't what I really wanted to do for the rest of my life. 
                 <br />After that, I went to work in an e-commerce company that worked with Amazon. Ever since then, I started thinking about tech, robots, AI, coding, and such. 
-                <br />I became quite curious to the point where I quit my job and started a 3 months and 15 weeks course with WBS Coding school. I had very difficult times yet still thrived to graduate from the course to become a Full-Stack Web App Engineer. 
+                <br />I became quite curious to the point where I quit my job and started a 3 months and 15 days course with WBS Coding school. I had very difficult times yet still thrived to graduate from the course to become a Full-Stack Web App Engineer. 
                 <br />After taking things seriously, I became spending most of the time programming, learning new things, and solving problems which honestly feels very good and productive. The funny thing is the more I go in-depth the less I know in knowledge. 
                 <br />This is what's the aspiring thing about programming or engineering is. In general, I love learning about new technologies, what problems are they solving and How can I use them to build better and scalable products.
                 <br /> <br />
