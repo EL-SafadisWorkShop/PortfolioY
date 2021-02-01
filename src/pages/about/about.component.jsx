@@ -41,11 +41,11 @@ const About = () => {
                     </a>
                   </div>
                   <div>
-                    <a href="file:///C:/Users/elsaf/Downloads/Yazzen%20CV2%20(1).pdf" target="_blank" rel="noopener noreferrer">
+                    {/*<a href="file:///C:/Users/elsaf/Downloads/Yazzen%20CV2%20(1).pdf" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
-                    </a>
+  </a>*/}
                   </div>
                   <div>
                     <a href="https://github.com/EL-SafadisWorkShop" target="_blank" rel="noopener noreferrer">
