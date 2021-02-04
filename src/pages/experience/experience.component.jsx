@@ -50,7 +50,7 @@ const Experience = () => {
                     <br/>
                     <strong> Description </strong>
                     <ul className="text-left">
-                      <li><strong>Hard, diligent laber</strong> </li>
+                      <li><strong>Hard, diligent labor</strong> </li>
                       <li><strong>Team-oriented attitude and thinking</strong></li>
                       <li><strong>Instructed team members</strong></li>
                       <li><strong>Customer services</strong></li>                      
