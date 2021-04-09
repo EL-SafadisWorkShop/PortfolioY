@@ -18,42 +18,44 @@ const Experience = () => {
                   <Card.Title className="text-center">Store Manager @ BS Sport</Card.Title>
                 </div>
                 <div>
-                  <Card.Text className="text-center style">                                     
+                  <Card.Text className="text-center style">
                     <strong>Duration:</strong> 05/2015 - 05/2017
-                    <br/>
+                    <br />
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li><strong>Coordinated logistics processes</strong> </li>
                       <li><strong>Instructed team members</strong></li>
                       <li><strong>Customer service</strong></li>
-                      <li><strong>Audited the business</strong></li>                      
-                      
+                      <li><strong>Audited the business</strong></li>
+
 
                     </ul>
-                    
+
                     <div>
                       <Card.Title className="text-center"> E- Commerce Back-Office Coordinator @ Salamon/Safadi GBR</Card.Title>
                     </div>
                     <strong>Duration:</strong> 08/2017 - 01/2019
-                    <br/>
+                    <br />
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li><strong>Translation & interpretation services</strong> </li>
                       <li><strong>Vendors intercommunication</strong></li>
                       <li><strong>Inventory enumeration</strong></li>
-                      <li><strong>Customer services</strong></li>                      
+                      <li><strong>Customer services</strong></li>
                     </ul>
                     <div>
-                      <Card.Title className="text-center">Construction Worker @ Hansebau-Unterneheme</Card.Title>
+                      <Card.Title className="text-center">Construction Manager @ Hansebau-Unterneheme</Card.Title>
                     </div>
                     <strong>Duration:</strong> 01/2020 - 012/2020
-                    <br/>
+                    <br />
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li><strong>Hard, diligent labor</strong> </li>
                       <li><strong>Team-oriented attitude and thinking</strong></li>
                       <li><strong>Instructed team members</strong></li>
-                      <li><strong>Customer services</strong></li>                      
+                      <li><strong>Customer services</strong></li>
+                      <li><strong>plan and coordinating projects</strong></li>
+
                     </ul>
                   </Card.Text>
                 </div>
